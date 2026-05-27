@@ -7,8 +7,8 @@ A beautiful, personalized birthday surprise website built with React and Tailwin
 - 🔐 Password-protected birthday surprise
 - 🎊 Confetti animation on unlock
 - 💖 Smooth scrolling experience
-- 📸 Memory section for photos
-- 🎵 Music suggestion section
+- happy birthday saviour 
+- 🎵 thanks for being my friend 
 - 📱 Fully responsive design
 - ✨ Animated elements and transitions
 
